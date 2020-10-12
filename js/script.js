@@ -19,7 +19,7 @@ $(document).ready( function () {
 			breakpoints: {
 			1024: {
 				slidesPerView: 4,
-				simulateTouch: true,
+				simulateTouch: false,
 				allowTouchMove: false,
 				
 			},
