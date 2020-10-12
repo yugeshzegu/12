@@ -433,6 +433,9 @@ ul.mediaIcns, ul.ftrname2 {
 /* MEDIA QUERY */
 
 @media screen and (min-width:320px) and (max-width:767px){
+	.icntext {
+	    padding: 25px 0px;
+	}
 	.search, .menu {
 		display: none;
 	}
