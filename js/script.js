@@ -20,7 +20,7 @@ $(document).ready( function () {
 			1024: {
 				slidesPerView: 4,
 				simulateTouch: true,
-				allowTouchMove: true,
+				allowTouchMove: false,
 				
 			},
 			768: {
